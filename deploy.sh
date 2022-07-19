@@ -8,5 +8,3 @@ echo good job.
 Tested and accepted
 echo I will update the file
 Tested and accepted 
-(tested and approved by the client QA team)
-
